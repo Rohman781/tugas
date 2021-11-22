@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chat Messaging</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="reset">Reset</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+
+    <!-- Navigation Drawer -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Closed</string>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_list_icon">
+        <item>@drawable/kontak</item>
+        <item>@drawable/chat</item>
+        <item>@drawable/multiple</item>
+        <item>@drawable/megaphone</item>
+    </array>
+
+    <!-- Nav Drawer List Item Titles -->
+    <string-array name="nav_list_title">
+        <item>Friends Contacts</item>
+        <item>Friends Chat </item>
+        <item>Community</item>
+        <item>Public</item>
+    </string-array>
+
+    <!-- Sliding List Item Icons -->
+    <array name="sliding_tab_icon">
+        <item>@drawable/kontak</item>
+        <item>@drawable/chat</item>
+        <item>@drawable/multiple</item>
+        <item>@drawable/megaphone</item>
+    </array>
+
+    <!-- Fragment Toolbar Titles -->
+    <string-array name="fragment_toolbar_title">
+        <item>Friends Contacts</item>
+        <item>Friends Chat </item>
+        <item>Community</item>
+        <item>Public</item>
+    </string-array>
+
+    <!-- Fragment Titles -->
+    <string-array name="fragment_title">
+        <item>Friends</item>
+        <item>Chat </item>
+        <item>Community</item>
+        <item>Public</item>
+    </string-array>
+
+</resources>
