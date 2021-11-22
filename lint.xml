@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore" />
+    <issue id="Recycle">
+        <ignore path="src/zul/android/chat/adapter/ViewPagerAdapter.java" />
+    </issue>
+    <issue id="SuspiciousImport" severity="ignore" />
+</lint>
